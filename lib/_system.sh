@@ -29,7 +29,7 @@ EOF
 #######################################
 system_git_clone() {
   print_banner
-  printf "${WHITE} 💻 Fazendo download do código FireZAP...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Fazendo download do código SACMAIS...${GRAY_LIGHT}"
   printf "\n\n"
 
 
@@ -49,7 +49,9 @@ EOF
 #######################################
 system_update() {
   print_banner
-  printf "${WHITE} 💻 Vamos atualizar o sistema FireZAP...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos atualizar o sistema 
+  
+  ZAP...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -71,7 +73,7 @@ EOF
 #######################################
 deletar_tudo() {
   print_banner
-  printf "${WHITE} 💻 Vamos deletar o FireZAP...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos deletar o SACMAIS...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -117,7 +119,7 @@ EOF
 #######################################
 configurar_bloqueio() {
   print_banner
-  printf "${WHITE} 💻 Vamos bloquear o FireZAP...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos bloquear o SACMAIS...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -144,7 +146,7 @@ EOF
 #######################################
 configurar_desbloqueio() {
   print_banner
-  printf "${WHITE} 💻 Vamos Desbloquear o FireZAP...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos Desbloquear o SACMAIS...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -170,7 +172,7 @@ EOF
 #######################################
 configurar_dominio() {
   print_banner
-  printf "${WHITE} 💻 Vamos Alterar os Dominios do FireZAP...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos Alterar os Dominios do SACMAIS...${GRAY_LIGHT}"
   printf "\n\n"
 
 sleep 2
