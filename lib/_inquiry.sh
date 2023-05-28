@@ -201,14 +201,14 @@ software_dominio() {
 inquiry_options() {
   
   print_banner
-  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador FireZAP, selecione abaixo a proxima ação!${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador SACMAIS, selecione abaixo a proxima ação!${GRAY_LIGHT}"
   printf "\n\n"
-  printf "   [0] Instalar FireZAP\n"
-  printf "   [1] Atualizar FireZAP\n"
-  printf "   [2] Deletar FireZAP\n"
-  printf "   [3] Bloquear FireZAP\n"
-  printf "   [4] Desbloquear FireZAP\n"
-  printf "   [5] Alter. dominio FireZAP\n"
+  printf "   [0] Instalar SACMAIS\n"
+  printf "   [1] Atualizar SACMAIS\n"
+  printf "   [2] Deletar SACMAIS\n"
+  printf "   [3] Bloquear SACMAIS\n"
+  printf "   [4] Desbloquear SACMAIS\n"
+  printf "   [5] Alter. dominio SACMAIS\n"
   printf "\n"
   read -p "> " option
 
