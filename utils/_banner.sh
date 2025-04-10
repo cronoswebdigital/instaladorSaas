@@ -23,13 +23,13 @@ print_banner() {
 
 printf "${CYAN_LIGHT}";
  
-printf ${CYAN_LIGHT}" ████████  █████████  ████████  ████       ████  █████████ ██████  ████████ \n";
-printf ${CYAN_LIGHT}" ██        ██     ██ ██        ██  ██    ██  ██  ██     ██   ██   ██       \n";
-printf ${CYAN_LIGHT}" ██        ██     ██ ██        ██    ████    ██  ██     ██   ██   ██       \n";
-printf ${CYAN_LIGHT}"   ██████  █████████ ██        ██     ██     ██  █████████   ██     ██████ \n";
-printf ${CYAN_LIGHT}"        ██ ██     ██ ██        ██            ██  ██     ██   ██         ██\n";
-printf ${CYAN_LIGHT}"        ██ ██     ██ ██        ██            ██  ██     ██   ██         ██\n";
-printf ${CYAN_LIGHT}" ████████  ██     ██ ████████  ██            ██  ██     ██ ██████ ████████ \n";
+printf ${CYAN_LIGHT}" ████████  █████████  ████████  ████      ████  █████████ ██████  ████████ \n";
+printf ${CYAN_LIGHT}" ██        ██     ██ ██         ██ ██    ██ ██  ██     ██   ██   ██       \n";
+printf ${CYAN_LIGHT}" ██        ██     ██ ██         ██   ████   ██  ██     ██   ██   ██       \n";
+printf ${CYAN_LIGHT}"   ██████  █████████ ██         ██    ██    ██  █████████   ██     ██████ \n";
+printf ${CYAN_LIGHT}"        ██ ██     ██ ██         ██          ██  ██     ██   ██         ██\n";
+printf ${CYAN_LIGHT}"        ██ ██     ██ ██         ██          ██  ██     ██   ██         ██\n";
+printf ${CYAN_LIGHT}" ████████  ██     ██ ████████   ██          ██  ██     ██ ██████ ████████ \n";
 printf "${CYAN_LIGHT}";
   
   printf "${NC}";
